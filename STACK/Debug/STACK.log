@@ -1,0 +1,9 @@
+﻿  Assembling source.asm...
+\masm32\include64\win64.inc(12787): error A2119: language type must be specified
+\masm32\include64\win64.inc(12789): error A2119: language type must be specified
+\masm32\include64\win64.inc(12791): error A2119: language type must be specified
+\masm32\include64\win64.inc(16474): error A2119: language type must be specified
+\masm32\macros64\vasily.inc(1000): error A2008: syntax error : MACRO
+\masm32\macros64\vasily.inc(1003): error A2008: syntax error : J_POLY_COND
+\masm32\macros64\vasily.inc(1004): fatal error A1008: unmatched macro nesting
+D:\programe\vs2019\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\source.obj" /W3 /errorReport:prompt  /Tasource.asm" exited with code 1.
